@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alumno\\Documents\\DI2627B-ContrerasMarta\\BindingEntreControles\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC83A05C-4088-46E5-99C0-4375037677B0}|BindingEntreControles\\BindingEntreControles.csproj|c:\\users\\alumno\\documents\\di2627b-contrerasmarta\\bindingentrecontroles\\bindingentrecontroles\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DC83A05C-4088-46E5-99C0-4375037677B0}|BindingEntreControles\\BindingEntreControles.csproj|solutionrelative:bindingentrecontroles\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC83A05C-4088-46E5-99C0-4375037677B0}|BindingEntreControles\\BindingEntreControles.csproj|c:\\users\\alumno\\documents\\di2627b-contrerasmarta\\bindingentrecontroles\\bindingentrecontroles\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC83A05C-4088-46E5-99C0-4375037677B0}|BindingEntreControles\\BindingEntreControles.csproj|solutionrelative:bindingentrecontroles\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC83A05C-4088-46E5-99C0-4375037677B0}|BindingEntreControles\\BindingEntreControles.csproj|c:\\users\\alumno\\documents\\di2627b-contrerasmarta\\bindingentrecontroles\\bindingentrecontroles\\tama\u00F1oconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC83A05C-4088-46E5-99C0-4375037677B0}|BindingEntreControles\\BindingEntreControles.csproj|solutionrelative:bindingentrecontroles\\tama\u00F1oconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tama\u00F1oConverter.cs",
+              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\DI2627B-ContrerasMarta\\BindingEntreControles\\BindingEntreControles\\Tama\u00F1oConverter.cs",
+              "RelativeDocumentMoniker": "BindingEntreControles\\Tama\u00F1oConverter.cs",
+              "ToolTip": "C:\\Users\\alumno\\Documents\\DI2627B-ContrerasMarta\\BindingEntreControles\\BindingEntreControles\\Tama\u00F1oConverter.cs",
+              "RelativeToolTip": "BindingEntreControles\\Tama\u00F1oConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T13:51:06.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\DI2627B-ContrerasMarta\\BindingEntreControles\\BindingEntreControles\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "BindingEntreControles\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\alumno\\Documents\\DI2627B-ContrerasMarta\\BindingEntreControles\\BindingEntreControles\\MainWindow.xaml",
+              "RelativeToolTip": "BindingEntreControles\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-26T13:24:15.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\DI2627B-ContrerasMarta\\BindingEntreControles\\BindingEntreControles\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BindingEntreControles\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\alumno\\Documents\\DI2627B-ContrerasMarta\\BindingEntreControles\\BindingEntreControles\\MainWindow.xaml.cs",
+              "RelativeToolTip": "BindingEntreControles\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T13:24:13.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

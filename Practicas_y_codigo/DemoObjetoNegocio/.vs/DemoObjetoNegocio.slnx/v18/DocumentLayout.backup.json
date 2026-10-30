@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alumno\\Documents\\DI2627B-ContrerasMarta\\DemoObjetoNegocio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{722DBFB8-0BB4-4F2D-BD22-3D7709D23AE9}|DemoObjetoNegocio\\DemoObjetoNegocio.csproj|c:\\users\\alumno\\documents\\di2627b-contrerasmarta\\demoobjetonegocio\\demoobjetonegocio\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{722DBFB8-0BB4-4F2D-BD22-3D7709D23AE9}|DemoObjetoNegocio\\DemoObjetoNegocio.csproj|solutionrelative:demoobjetonegocio\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{722DBFB8-0BB4-4F2D-BD22-3D7709D23AE9}|DemoObjetoNegocio\\DemoObjetoNegocio.csproj|c:\\users\\alumno\\documents\\di2627b-contrerasmarta\\demoobjetonegocio\\demoobjetonegocio\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{722DBFB8-0BB4-4F2D-BD22-3D7709D23AE9}|DemoObjetoNegocio\\DemoObjetoNegocio.csproj|solutionrelative:demoobjetonegocio\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{722DBFB8-0BB4-4F2D-BD22-3D7709D23AE9}|DemoObjetoNegocio\\DemoObjetoNegocio.csproj|c:\\users\\alumno\\documents\\di2627b-contrerasmarta\\demoobjetonegocio\\demoobjetonegocio\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{722DBFB8-0BB4-4F2D-BD22-3D7709D23AE9}|DemoObjetoNegocio\\DemoObjetoNegocio.csproj|solutionrelative:demoobjetonegocio\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\DI2627B-ContrerasMarta\\DemoObjetoNegocio\\DemoObjetoNegocio\\Persona.cs",
+              "RelativeDocumentMoniker": "DemoObjetoNegocio\\Persona.cs",
+              "ToolTip": "C:\\Users\\alumno\\Documents\\DI2627B-ContrerasMarta\\DemoObjetoNegocio\\DemoObjetoNegocio\\Persona.cs*",
+              "RelativeToolTip": "DemoObjetoNegocio\\Persona.cs*",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwDEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T10:24:59.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\DI2627B-ContrerasMarta\\DemoObjetoNegocio\\DemoObjetoNegocio\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DemoObjetoNegocio\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\alumno\\Documents\\DI2627B-ContrerasMarta\\DemoObjetoNegocio\\DemoObjetoNegocio\\MainWindow.xaml.cs",
+              "RelativeToolTip": "DemoObjetoNegocio\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T10:18:39.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\DI2627B-ContrerasMarta\\DemoObjetoNegocio\\DemoObjetoNegocio\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "DemoObjetoNegocio\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\alumno\\Documents\\DI2627B-ContrerasMarta\\DemoObjetoNegocio\\DemoObjetoNegocio\\MainWindow.xaml",
+              "RelativeToolTip": "DemoObjetoNegocio\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-30T10:14:57.252Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
